@@ -1,0 +1,12 @@
+.header {
+    height: 75px;
+    background-color: rebeccapurple;
+    width: 100%;
+    color: #fff;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
